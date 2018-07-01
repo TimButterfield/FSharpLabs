@@ -1,0 +1,14 @@
+﻿1) Could you use an F# script file to and collect information from the 
+Ofsted website about schools. See page 20 of F# for fun and profit
+
+Address, Headmaster (Do ofsted know if a head changes?)
+
+x) Use F# to scaffold a worker so it's easier to start
+x) Write a test that runs periodically to call the ProblematicOrder Api
+  -> Scheduler using https://www.reddit.com/r/fsharp/comments/54zer0/run_function_periodically_every_24hrs/
+  -> https://github.com/fluentscheduler/FluentScheduler or quartz
+
+2) Use an F# script to push a message to and AWS topic?
+3) Use F# to put data from a csv/comma separated input into dynamo
+4) Use F# to create a task runner, that will run a set of tests in a project on a regular basis and report on a failure
+-n x) Write a function or library to support calling uri's with fault handling, backs baked in  

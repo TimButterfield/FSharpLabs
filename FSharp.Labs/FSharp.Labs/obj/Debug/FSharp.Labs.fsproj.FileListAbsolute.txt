@@ -1,0 +1,7 @@
+C:\Users\Tim.Butterfield\Documents\Tech\Training\F#\FSharp.Labs\FSharp.Labs\bin\Debug\FSharp.Labs.XML
+C:\Users\Tim.Butterfield\Documents\Tech\Training\F#\FSharp.Labs\FSharp.Labs\bin\Debug\FSharp.Labs.dll
+C:\Users\Tim.Butterfield\Documents\Tech\Training\F#\FSharp.Labs\FSharp.Labs\bin\Debug\FSharp.Labs.pdb
+C:\Users\Tim.Butterfield\Documents\Tech\Training\F#\FSharp.Labs\FSharp.Labs\bin\Debug\FSharp.Core.dll
+C:\Users\Tim.Butterfield\Documents\Tech\Training\F#\FSharp.Labs\FSharp.Labs\bin\Debug\FSharp.Core.xml
+C:\Users\Tim.Butterfield\Documents\Tech\Training\F#\FSharp.Labs\FSharp.Labs\obj\Debug\FSharp.Labs.dll
+C:\Users\Tim.Butterfield\Documents\Tech\Training\F#\FSharp.Labs\FSharp.Labs\obj\Debug\FSharp.Labs.pdb
